@@ -1,0 +1,9 @@
+views\Sign_in.class
+views\Sign_in$1.class
+controller\PostController.class
+dao\ConnexionBase.class
+com\mycompany\bloggy\Bloggy.class
+controller\UserController.class
+models\PostModel.class
+views\Sign_in$2.class
+models\UserModel.class
